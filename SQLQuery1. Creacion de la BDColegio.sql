@@ -1,0 +1,3 @@
+CREATE SCHEMA Sesion;
+CREATE SCHEMA Sistema;
+CREATE SCHEMA Colegio; 
